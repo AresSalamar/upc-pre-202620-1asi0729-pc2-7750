@@ -1,5 +1,10 @@
 target/
 .idea/
 *.iml
-.env
+.project
+.classpath
+.settings/
 .DS_Store
+.env
+.env.*
+*.log
